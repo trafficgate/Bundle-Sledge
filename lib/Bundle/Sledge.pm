@@ -2,7 +2,7 @@ package Bundle::Sledge;
 
 use strict;
 use vars qw($VERSION);
-$VERSION = 0.03;
+$VERSION = 0.04;
 
 1;
 __END__
@@ -72,6 +72,8 @@ LWP - The World-Wide Web library for Perl
 CGI 2.47 - Simple Common Gateway Interface Class
 
 Storable - persistency for perl data structures
+
+Encode::compat - Encode.pm emulation layer
 
 =head1 DESCRIPTION
 
